@@ -31,6 +31,9 @@ Contact
 > "Reflect that nothing merits admiration except the spirit."
 > — Seneca
 
+> “To be or to seem?”
+> — Nassim Taleb
+
 > "Whereof one cannot speak, thereof one must be silent."
 > — Wittgenstein
 
