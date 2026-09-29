@@ -13,14 +13,13 @@ Kelly Shrinkage
 
 Project related to Kelly shrinkage under uncertainty.
 
-https://kennyws.shinyapps.io/nba-copula-app/
-
 NBA Copulas
 ------
 *Ongoing Personal Project*
 
 Modeling the dependence structure of NBA box score values using Vine Copulas.
 
+https://kennyws.shinyapps.io/nba-copula-app/
 
 Injury Modeling for the Cleveland Browns
 ------
