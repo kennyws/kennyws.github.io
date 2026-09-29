@@ -13,6 +13,8 @@ Kelly Shrinkage
 
 Project related to Kelly shrinkage under uncertainty.
 
+https://kennyws.shinyapps.io/nba-copula-app/
+
 NBA Copulas
 ------
 *Ongoing Personal Project*
