@@ -7,19 +7,29 @@ author_profile: true
 
 ---
 
+NBA Copulas
+------
+
+Modeling the dependence structure of NBA box score values using Vine Copulas.
+
+[Predicting Joint Distribution of Pts/Asts/Rebs/Threes](https://kennyws.shinyapps.io/nba-copula-app/)
+
+
+
+To Foul or Not to Foul?
+------
+
+Modelling end game scenarios of NBA games to decide whether a team should foul or not.
+
+[Foul Model Code](https://github.com/kennyws/NBA_fouls)
+
+
+
 Kelly Shrinkage
 ------
 *Ongoing Personal Project*
 
 Project related to Kelly shrinkage under uncertainty.
-
-NBA Copulas
-------
-*Ongoing Personal Project*
-
-Modeling the dependence structure of NBA box score values using Vine Copulas.
-
-[Predicting Joint Distribution of Pts/Asts/Rebs/Threes](https://kennyws.shinyapps.io/nba-copula-app/)
 
 Injury Modeling for the Cleveland Browns
 ------
