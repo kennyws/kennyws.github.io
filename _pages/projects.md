@@ -19,7 +19,7 @@ NBA Copulas
 
 Modeling the dependence structure of NBA box score values using Vine Copulas.
 
-https://kennyws.shinyapps.io/nba-copula-app/
+[Predicting Joint Distribution of Pts/Asts/Rebs/Threes](https://kennyws.shinyapps.io/nba-copula-app/)
 
 Injury Modeling for the Cleveland Browns
 ------
