@@ -14,7 +14,7 @@ Modeling the dependence structure of NBA box score values using Vine Copulas.
 
 [Predicting Joint Distribution of Pts/Asts/Rebs/Threes](https://kennyws.shinyapps.io/nba-copula-app/)
 
-![Copula Output](/images/copula_output.png){: width="300"}
+![Copula Output](/images/copula_output.png){: width="450"}
 
 To Foul or Not to Foul?
 ------
@@ -23,7 +23,7 @@ Modelling end game scenarios of NBA games to decide whether a team should foul o
 
 [Foul Model Code](https://github.com/kennyws/NBA_fouls)
 
-![Foul Model Output](/images/foul_output.png){: width="300"}
+![Foul Model Output](/images/foul_output.png){: width="450"}
 
 Kelly Shrinkage
 ------
