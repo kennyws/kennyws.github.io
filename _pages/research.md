@@ -17,7 +17,7 @@ The first application of an Expected Points framework to rugby union. Our paper 
 [Read the paper here &rarr;](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2025-0183/html)
 
 
-## Papers
+## Pre-Prints
 ---
 
 Dummy RAPM
