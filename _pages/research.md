@@ -20,6 +20,13 @@ The first application of an Expected Points framework to rugby union. Our paper 
 ## Pre-Prints
 ---
 
+A Markov Chain Approach to Modeling Rugby Union
+------
+
+We present a Markov Chain framework that represents Rugby Union as a finite state space over score differential, remaining time, and pitch location, with transition probabilities estimated from historical match data. The resulting model supports simulation and analysis of in-game trajectories, including win probability and expected point estimates from any given state. We validate the model through calibration analysis and comparison to models that predict only final outcomes. Our state-space approach produces well-calibrated, competitive estimates while additionally enabling analysis of how games evolve between states.
+
+[Read the paper on arXiv &rarr;](https://arxiv.org/abs/2610.04813)
+
 Dummy RAPM
 ------
 
