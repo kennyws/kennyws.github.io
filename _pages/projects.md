@@ -31,6 +31,8 @@ Kelly Shrinkage
 
 Project related to Kelly shrinkage under uncertainty.
 
+[Shrinking bets that pass a screening process](https://kennyws.shinyapps.io/kelly-app/)
+
 Injury Modeling for the Cleveland Browns
 ------
 *Wharton Sports Analytics and Business Initiative, December 2025 &ndash; April 2026*
