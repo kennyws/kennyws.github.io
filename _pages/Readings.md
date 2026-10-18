@@ -2,6 +2,7 @@
 layout: single
 title: Readings
 permalink: /readings/
+author_profile: true
 ---
 
 <style>
