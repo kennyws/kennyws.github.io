@@ -37,8 +37,6 @@ author_profile: true
 
 <img class="side-image" src="/images/readings.jpg" alt="Describe the image here">
 
-# Readings
-
 <!--
 HOW TO ADD AN ENTRY
 Copy one entry (the "- **[Title]..." line plus its note), paste it at the top
