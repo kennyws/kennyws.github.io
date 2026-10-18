@@ -6,8 +6,6 @@ permalink: /readings/
 
 # Readings
 
-Papers and writing I found interesting, with a line on why. Newest first.
-
 <!--
 HOW TO ADD AN ENTRY
 Copy one entry (the "- **[Title]..." line plus its note), paste it at the top
@@ -20,18 +18,15 @@ ENTRY TEMPLATE:
   One or two sentences on what it argues and why it stuck with you.
 -->
 
-## Topic name
+## Papers I've Enjoyed
 
-- **[Title of the paper or article](https://example.com/paper)**
-  Author One, Author Two. Venue or site, 2024.
-  One or two sentences on what it argues and why it stuck with you.
+- **[Putting Skill as Nearly Indistinguishable from Noise: An Empirical Bayes Analysis of PGA Tour Performance - Brill and Wyner](https://arxiv.org/abs/2506.21822)**
 
-- **[Another reading](https://example.com/second)**
-  Author Name. Journal, 2023.
-  Placeholder note. Replace me.
+- **[How often does the best team win? A unified approach to understanding randomness in North American Sport - Lopez, Matthews, Baumer](https://arxiv.org/pdf/1701.05976)**
 
-## Another topic
+- **[The Variation of Certain Speculative Prices - Benoit Mandelbrot](https://web.williams.edu/Mathematics/sjmiller/public_html/341Fa09/econ/Mandelbroit_VariationCertainSpeculativePrices.pdf)**
 
-- **[A third reading](https://example.com/third)**
-  Author Name. Blog, 2022.
-  Placeholder note. Replace me.
+## Random
+
+- **[The Epicurean Dealmake](https://epicureandealmaker.blogspot.com)**
+
