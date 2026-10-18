@@ -28,5 +28,5 @@ ENTRY TEMPLATE:
 
 ## Random
 
-- **[The Epicurean Dealmake](https://epicureandealmaker.blogspot.com)**
+- **[The Epicurean Dealmaker](https://epicureandealmaker.blogspot.com)**
 
