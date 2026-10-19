@@ -12,7 +12,7 @@ Bayesian Model to produce team level strength measures across offence, defence, 
 
 expected home margin = (mean possessions + home tempo + away tempo) × [(home offense + home defense) − (away offense + away defense) + home-field edge × home indicator] + (home special teams − away special teams)
 
-[NFL and CFB Code](https://github.com/kennyws/Bayesian_football_models)
+[NFL and CFB Code (After Week 6, 2026)](https://github.com/kennyws/Bayesian_football_models)
 
 ![Strength Output with Uncertainties (After Game Week 6)](/images/NFL_strength_output.png){: width="450"}
 
