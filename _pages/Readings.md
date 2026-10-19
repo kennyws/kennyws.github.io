@@ -63,6 +63,9 @@ IMAGE: change the src in the <img> line above to your image's path.
 
 - **[The Epicurean Dealmaker](https://epicureandealmaker.blogspot.com)**
 
+- **[A quick simulation to demonstrate the wild variability of p-values](https://statmodeling.stat.columbia.edu/2024/10/08/a-quick-simulation-to-demonstrate-the-wild-variability-of-p-values/)**
+
+
 </div>
 
 
