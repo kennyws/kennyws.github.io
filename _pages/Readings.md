@@ -51,20 +51,24 @@ ENTRY TEMPLATE:
 IMAGE: change the src in the <img> line above to your image's path.
 -->
 
-## Papers I've Enjoyed
+## Statistics
+
+- **[A quick simulation to demonstrate the wild variability of p-values](https://statmodeling.stat.columbia.edu/2024/10/08/a-quick-simulation-to-demonstrate-the-wild-variability-of-p-values/)**
+
+
+## Sports
 
 - **[Putting Skill as Nearly Indistinguishable from Noise: An Empirical Bayes Analysis of PGA Tour Performance - Brill and Wyner](https://arxiv.org/abs/2506.21822)**
 
 - **[How often does the best team win? A unified approach to understanding randomness in North American Sport - Lopez, Matthews, Baumer](https://arxiv.org/pdf/1701.05976)**
 
-- **[The Variation of Certain Speculative Prices - Benoit Mandelbrot](https://web.williams.edu/Mathematics/sjmiller/public_html/341Fa09/econ/Mandelbroit_VariationCertainSpeculativePrices.pdf)**
 
-## Random
+
+## Finance
 
 - **[The Epicurean Dealmaker](https://epicureandealmaker.blogspot.com)**
 
-- **[A quick simulation to demonstrate the wild variability of p-values](https://statmodeling.stat.columbia.edu/2024/10/08/a-quick-simulation-to-demonstrate-the-wild-variability-of-p-values/)**
-
+- **[The Variation of Certain Speculative Prices - Benoit Mandelbrot](https://web.williams.edu/Mathematics/sjmiller/public_html/341Fa09/econ/Mandelbroit_VariationCertainSpeculativePrices.pdf)**
 
 </div>
 
