@@ -5,7 +5,13 @@ permalink: /projects/
 author_profile: true
 ---
 
----
+NFL and CFB Strength Ratings
+------
+
+Bayesian Model to produce team level strength measures across offence, defence, and special teams.
+
+expected home margin = (mean possessions + home tempo + away tempo) × [(home offense + home defense) − (away offense + away defense) + home-field edge × home indicator] + (home special teams − away special teams)
+
 
 NBA Copulas
 ------
