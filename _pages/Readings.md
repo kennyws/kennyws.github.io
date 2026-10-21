@@ -59,8 +59,9 @@ IMAGE: change the src in the <img> line above to your image's path.
 
 - **[Putting Skill as Nearly Indistinguishable from Noise: An Empirical Bayes Analysis of PGA Tour Performance - Brill and Wyner](https://arxiv.org/abs/2506.21822)**
 
-- **[How often does the best team win? A unified approach to understanding randomness in North American Sport - Lopez, Matthews, Baumer](https://arxiv.org/pdf/1701.05976)**
+- **[How often does the best team win? A unified approach to understanding randomness in North American Sport - Lopez, Matthews, and Baumer](https://arxiv.org/pdf/1701.05976)**
 
+- **[The Causal Effect of a Timeout at Stopping an Opposing Run in the NBA - Gibbs, Elmore, and Fosdick](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/The-causal-effect-of-a-timeout-at-stopping-an-opposing/10.1214/21-AOAS1545.pdf)**
 
 
 ## Finance
