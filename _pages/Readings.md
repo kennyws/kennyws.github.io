@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Readings"
+title: "Wiser Than I"
 permalink: /readings/
 author_profile: true
 ---
