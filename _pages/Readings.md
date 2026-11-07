@@ -70,6 +70,8 @@ IMAGE: change the src in the <img> line above to your image's path.
 
 - **[The Variation of Certain Speculative Prices - Benoit Mandelbrot](https://web.williams.edu/Mathematics/sjmiller/public_html/341Fa09/econ/Mandelbroit_VariationCertainSpeculativePrices.pdf)**
 
+- **[Election Predictions as Martingales: An Arbitrage Approach](https://arxiv.org/pdf/1703.06351)**
+
 </div>
 
 
