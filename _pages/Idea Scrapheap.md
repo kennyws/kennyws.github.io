@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Research"
-permalink: /research/
+title: "Idea Scrapheap"
+permalink: /Idea Scrapheap/
 author_profile: true
 ---
 
