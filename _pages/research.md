@@ -17,6 +17,16 @@ The first application of an Expected Points framework to rugby union. Our paper 
 [Read the paper here &rarr;](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2025-0183/html)
 
 
+A Dynamic Rating System for NFL Pass Rushers and Blockers
+------
+*Published in the Wharton Sports Analytics Journal, 2026*
+
+A framework for rating NFL offensive and defensive linemen using player tracking data and individual play interactions, combining Multinomial ELO and Ridge Regression approaches. Presented as a poster at the New England Symposium on Statistics in Sports (NESSIS) at Harvard University and at the Wharton Sports Business Summit.
+
+[Read the paper on Here](https://wsb.wharton.upenn.edu/opponent-adjusted-evaluation-of-nfl-pass-blocking-and-pass-rushing-performance/)
+
+
+
 ## Pre-Prints
 ---
 
@@ -48,11 +58,3 @@ in a single lineup), preventing it from contaminating the estimates of retained 
 reallocation yields improved out-of-sample predictive performance than a standard RAPM model.
 
 [Read the paper on arXiv &rarr;](https://arxiv.org/abs/2608.19454)
-
-
-A Dynamic Rating System for NFL Pass Rushers and Blockers
-------
-
-A framework for rating NFL offensive and defensive linemen using player tracking data and individual play interactions, combining Multinomial ELO and Ridge Regression approaches. Presented as a poster at the New England Symposium on Statistics in Sports (NESSIS) at Harvard University and at the Wharton Sports Business Summit.
-
-[Read the paper on arXiv &rarr;](https://arxiv.org/abs/2604.01491)
