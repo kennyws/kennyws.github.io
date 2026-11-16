@@ -23,7 +23,7 @@ A Dynamic Rating System for NFL Pass Rushers and Blockers
 
 A framework for rating NFL offensive and defensive linemen using player tracking data and individual play interactions, combining Multinomial ELO and Ridge Regression approaches. Presented as a poster at the New England Symposium on Statistics in Sports (NESSIS) at Harvard University and at the Wharton Sports Business Summit.
 
-[Read the paper here](https://wsb.wharton.upenn.edu/opponent-adjusted-evaluation-of-nfl-pass-blocking-and-pass-rushing-performance/)
+[Read the paper here &rarr;](https://wsb.wharton.upenn.edu/opponent-adjusted-evaluation-of-nfl-pass-blocking-and-pass-rushing-performance/)
 
 
 
