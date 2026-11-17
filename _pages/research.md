@@ -43,7 +43,7 @@ What is the probability that LeBron James records at least 27 points, 7 rebounds
 A Markov Chain Approach to Modeling Rugby Union
 ------
 
-We present a Markov Chain framework that represents Rugby Union as a finite state space over score differential, remaining time, and pitch location, with transition probabilities estimated from historical match data. The resulting model supports simulation and analysis of in-game trajectories, including win probability and expected point estimates from any given state. We validate the model through calibration analysis and comparison to models that predict only final outcomes. Our state-space approach produces well-calibrated, competitive estimates while additionally enabling analysis of how games evolve between states.
+Win probability tells us how likely a team is to win, but says little about how the rest of the match might play out. We develop a Markov chain model for rugby union that follows changes in score, time, field position, and possession, with transition probabilities estimated from phase-level match data. The same model lets us estimate win probabilities and expected points, calculate distributions for the next score and final margin, and simulate the remainder of a match from its current state. We assess predictive accuracy and calibration on 27 held-out matches after fitting the model to 105 matches from the same season. The model achieves similar test error to logistic regression and XGBoost, showing that we can model the progression of play while remaining competitive with methods that predict final outcomes directly.
 
 [Read the paper on arXiv &rarr;](https://arxiv.org/abs/2610.04813)
 
