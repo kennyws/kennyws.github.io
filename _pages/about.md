@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Statistics PhD student at the University of Virginia interested in applied probability and statistical inference.
 
-My interests include (but are not limited to) Financial Markets (Copulas, Tail Risk, Derivatives), Sports Analytics (RAPM, Paired Comparison Models, Expected Points, and Win Probability), and Decision Making under uncertainty.
+My interests include (but are not limited to) Financial Markets (Copulas, Tail Risk, Derivatives), Sports Analytics (Paired Comparison Models, Expected Points, Win Probability), and Decision Making under uncertainty.
 
 <div style="float: right; width: 300px; margin: 0 0 1.5em 2em;">
 
